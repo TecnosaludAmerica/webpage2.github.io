@@ -1,0 +1,416 @@
+.mediaViewInfo {
+	--web-view-name: Dispositivos;
+	--web-view-id: Dispositivos;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Dispositivos;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Dispositivos {
+	position: absolute;
+	width: 1920px;
+	height: 960px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Dispositivos;
+	--web-view-id: Dispositivos;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Textura_fondo_transparente {
+	position: absolute;
+	width: 1920px;
+	height: 1280px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#barra_menu {
+	display: none;
+	position: absolute;
+	width: 1924px;
+	height: 123px;
+	left: -4px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_5 {
+	fill: rgba(30,107,167,1);
+}
+.Rectngulo_5 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 125px;
+	left: 1498px;
+	top: 0px;
+}
+#Lnea_506 {
+	fill: transparent;
+	stroke: rgba(0,89,149,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_506 {
+	overflow: visible;
+	position: absolute;
+	width: 1939.893px;
+	height: 1px;
+	left: -2.268px;
+	top: 260.498px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_ {
+	left: 82.817px;
+	top: 203.849px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	line-height: 59.002201080322266px;
+	margin-top: -4.916851043701172px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49.16849899291992px;
+	color: rgba(0,89,151,1);
+}
+#Dispositivos_Mdicos {
+	left: 235.388px;
+	top: 203.849px;
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	white-space: nowrap;
+	line-height: 59.002201080322266px;
+	margin-top: -4.916851043701172px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49.16849899291992px;
+	color: rgba(0,89,151,1);
+}
+#Grupo_2353 {
+	position: absolute;
+	width: 1660px;
+	height: 620px;
+	left: 130px;
+	top: 293px;
+	overflow: visible;
+}
+#Iconos_PW_Stent {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Stent.html;
+	cursor: pointer;
+}
+#Iconos_PW_Stent{ transition: transform .2s;}#Iconos_PW_Stent:hover { transform: scale(1.05);}
+#Iconos_PW_Suturas {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 340px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Suturas.html;
+	cursor: pointer;
+}
+#Iconos_PW_Suturas{ transition: transform .2s;}#Iconos_PW_Suturas:hover { transform: scale(1.05);}
+#Iconos_PW_Cateteres {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 680px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Cateteres.html;
+	cursor: pointer;
+}
+#Iconos_PW_Cateteres{ transition: transform .2s;}#Iconos_PW_Cateteres:hover { transform: scale(1.05);}
+#Iconos_PW_Endoscopios {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 1020px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: endoscopios.html;
+	cursor: pointer;
+}
+#Iconos_PW_Endoscopios{ transition: transform .2s;}#Iconos_PW_Endoscopios:hover { transform: scale(1.05);}
+#Iconos_PW_8_cajones {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 1360px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Cajonera_8g.html;
+	cursor: pointer;
+}
+#Iconos_PW_8_cajones{ transition: transform .2s;}#Iconos_PW_8_cajones:hover { transform: scale(1.05);}
+#Iconos_PW_multi {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 0px;
+	top: 320px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Cajonera_multi.html;
+	cursor: pointer;
+}
+#Iconos_PW_multi{ transition: transform .2s;}#Iconos_PW_multi:hover { transform: scale(1.05);}
+#Iconos_PW_Torre_100k-28 {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 340px;
+	top: 320px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: 100k.html;
+	cursor: pointer;
+}
+#Iconos_PW_Torre_100k-28{ transition: transform .2s;}#Iconos_PW_Torre_100k-28:hover { transform: scale(1.05);}
+#Iconos_PWv2_Carro_uso_general {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 680px;
+	top: 320px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: maraton_plus.html;
+	cursor: pointer;
+}
+#Iconos_PWv2_Carro_uso_general{ transition: transform .2s;}#Iconos_PWv2_Carro_uso_general:hover { transform: scale(1.05);}
+#Iconos_PW_Carro_de_paro {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 1020px;
+	top: 320px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: maraton_paro.html;
+	cursor: pointer;
+}
+#Iconos_PW_Carro_de_paro{ transition: transform .2s;}#Iconos_PW_Carro_de_paro:hover { transform: scale(1.05);}
+#Menu {
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Rectngulo_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_Hospitalario-07 {
+	position: absolute;
+	width: 339px;
+	height: 89px;
+	left: 120px;
+	top: 6px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectngulo_2 {
+	fill: rgba(79,170,207,1);
+}
+.Rectngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 100px;
+	left: 1682px;
+	top: 0px;
+}
+#wsa {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 1727px;
+	top: 30px;
+	overflow: visible;
+}
+#wsa {transition: transform .2s;}#wsa:hover {transform: scale(1.15);}
+#mail {
+	position: absolute;
+	width: 41px;
+	height: 32px;
+	left: 1800px;
+	top: 32px;
+	overflow: visible;
+}
+#mail {transition: transform .2s;}#mail:hover {transform: scale(1.15);}
+#Rectngulo_1985 {
+	fill: rgba(29,107,167,1);
+}
+.Rectngulo_1985 {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 99px;
+	left: 1316px;
+	top: 1px;
+}
+#Productos {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 129px;
+	height: 30px;
+	left: 1341px;
+	top: 33px;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Productos {cursor: pointer;}#Productos:hover {color:#4CAACF;}#overlay {position: fixed;  display: none;  width: 100%;  height: 100%;  top: 0;  left: 0;  right: 0;  bottom: 0;  background-color: rgba(0,0,0,.75);  z-index: 2;  cursor: pointer;}#Productosm {		left: 721px;		top: 274px;		position: absolute;		overflow: visible;		width: 479px;		height: 112px;		text-align: center;		font-family: Raleway;		font-style: normal;		font-weight: bold;		font-size: 96px;		color: rgba(255,255,255,1);	}	#Enmascarar_grupo_2 {	position: absolute;	width: 80px;	height: 80px;	left: 888px;	top: 766px;	overflow: visible;		transition: transform .2s;	}	#Enmascarar_grupo_2:hover{		transform: scale(1.1)	}	#reas_Hospitalarias_ov {		left: 532px;		top: 424px;		position: absolute;		overflow: visible;		width: 857px;		height: 112px;		text-align: center;		font-family: Raleway;		font-style: normal;		font-weight: normal;		font-size: 50px;		color: rgba(255,255,255,1);		transition: transform .3s;	}	#reas_Hospitalarias_ov:hover {		transform: scale(1.05)	}	#Todos_los_productos_ov {		left: 508px;		top: 544px;		position: absolute;		overflow: visible;		width: 905px;		height: 112px;		text-align: center;		font-family: Raleway;		font-style: normal;		font-weight: normal;		font-size: 50px;		color: rgba(255,255,255,1);		transition: transform .3s;	}	#Todos_los_productos_ov:hover {		transform: scale(1.05)	}
+#Tecnoblog {
+	left: 1518px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Tecnoblog.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#Tecnoblog {cursor: pointer;}#Tecnoblog:hover {color:#4CAACF;}
+#La_Experiencia_Tecnosalud {
+	left: 977px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: La_Experiencia_Tecnosalud.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#La_Experiencia_Tecnosalud {cursor: pointer;}#La_Experiencia_Tecnosalud:hover {color:#4CAACF;}

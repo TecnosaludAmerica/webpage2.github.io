@@ -1,0 +1,1305 @@
+.mediaViewInfo {
+	--web-view-name: Frigossie 336;
+	--web-view-id: Frigossie_336;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Frigossie_336;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Frigossie_336 {
+	position: absolute;
+	width: 1920px;
+	height: 960px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Frigossie 336;
+	--web-view-id: Frigossie_336;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Fondo {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: -328.19px;
+	top: -926px;
+	display: none;
+	overflow: visible;
+}
+#Grupo_4035 {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3988 {
+	opacity: 0.55;
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3987 {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3986 {
+	position: absolute;
+	width: 2490.421px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#fondo_config {
+	fill: rgba(30,107,167,1);
+}
+.fondo_config {
+	position: absolute;
+	overflow: visible;
+	width: 1920.266px;
+	height: 305.794px;
+	left: 2.441px;
+	top: 423.516px;
+}
+#Grupo_3934 {
+	position: absolute;
+	width: 34.547px;
+	height: 38.534px;
+	left: 843.877px;
+	top: 487.639px;
+	overflow: visible;
+}
+#Grupo_4033 {
+	position: absolute;
+	width: 34.547px;
+	height: 38.534px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_2939 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2939 {
+	overflow: visible;
+	position: absolute;
+	width: 20.682px;
+	height: 33.969px;
+	left: 11.958px;
+	top: 5.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_507 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_507 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 8.722px;
+	left: 15.264px;
+	top: 18.602px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_508 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_508 {
+	overflow: visible;
+	position: absolute;
+	width: 0.763px;
+	height: 0.75px;
+	left: 19.25px;
+	top: 17.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2940 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2940 {
+	overflow: visible;
+	position: absolute;
+	width: 12.708px;
+	height: 12.635px;
+	left: 10.63px;
+	top: 0.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_509 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_509 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 2.743px;
+	left: 16.609px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_510 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_510 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 10.63px;
+	top: 5.979px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_511 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_511 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 20.596px;
+	top: 5.979px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2941 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2941 {
+	overflow: visible;
+	position: absolute;
+	width: 8.722px;
+	height: 8.722px;
+	left: 0px;
+	top: 8.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_512 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_512 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 2.743px;
+	left: 3.986px;
+	top: 8.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_513 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_513 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 0px;
+	top: 12.623px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_514 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_514 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 2.743px;
+	left: 3.986px;
+	top: 14.616px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_515 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_515 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 5.979px;
+	top: 12.623px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2942 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2942 {
+	overflow: visible;
+	position: absolute;
+	width: 8.722px;
+	height: 8.722px;
+	left: 26.575px;
+	top: 8.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_516 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_516 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 2.743px;
+	left: 30.561px;
+	top: 8.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_517 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_517 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 26.574px;
+	top: 12.623px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_518 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_518 {
+	overflow: visible;
+	position: absolute;
+	width: 0.75px;
+	height: 2.743px;
+	left: 30.561px;
+	top: 14.616px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_519 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_519 {
+	overflow: visible;
+	position: absolute;
+	width: 2.743px;
+	height: 0.75px;
+	left: 32.554px;
+	top: 12.623px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_520 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_520 {
+	overflow: visible;
+	position: absolute;
+	width: 5.956px;
+	height: 3.357px;
+	left: 22.004px;
+	top: 8.551px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_521 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.75px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_521 {
+	overflow: visible;
+	position: absolute;
+	width: 4.82px;
+	height: 3.013px;
+	left: 7.514px;
+	top: 8.763px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Caractersticas {
+	left: 839.282px;
+	top: 542.571px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	line-height: 35.40132141113281px;
+	margin-top: -2.95011043548584px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29.501100540161133px;
+	color: rgba(255,255,255,1);
+}
+#Conguraciones {
+	left: 839.282px;
+	top: 441.682px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	line-height: 35.40132141113281px;
+	margin-top: -2.95011043548584px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29.501100540161133px;
+	color: rgba(255,255,255,1);
+}
+#Correcto_almacenamiento_que_ga {
+	left: 839.631px;
+	top: 240.158px;
+	position: absolute;
+	overflow: visible;
+	width: 993px;
+	height: 70px;
+	line-height: 35.40132141113281px;
+	margin-top: -2.95011043548584px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29.501100540161133px;
+	color: rgba(30,107,156,1);
+}
+#Productos_Complementarios {
+	left: 839.633px;
+	top: 733.494px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(30,107,167,1);
+	letter-spacing: -0.83px;
+}
+#Refrigeracin_Farmacia {
+	left: 838.583px;
+	top: 180.704px;
+	position: absolute;
+	overflow: visible;
+	width: 319px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(30,107,167,1);
+}
+#Friggosi {
+	left: 839.635px;
+	top: 121.469px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	line-height: 59.002201080322266px;
+	margin-top: -4.916851043701172px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49.16849899291992px;
+	color: rgba(30,107,167,1);
+}
+#imagenes {
+	position: absolute;
+	width: 86.277px;
+	height: 15.381px;
+	left: 376.963px;
+	top: 915.825px;
+	overflow: visible;
+}
+#Grupo_4012 {
+	position: absolute;
+	width: 86.277px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_2988 {
+	fill: rgba(89,87,88,1);
+}
+.Trazado_2988 {
+	overflow: visible;
+	position: absolute;
+	width: 14.311px;
+	height: 14.38px;
+	left: 0px;
+	top: 0.501px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_5 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(113,112,111,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Elipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 15.311px;
+	height: 15.38px;
+	left: 0px;
+	top: 0.501px;
+}
+#Grupo_4001 {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 17.367px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4000 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3999 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4004 {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 35.233px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4003 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4002 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4007 {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 53.1px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4006 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4005 {
+	position: absolute;
+	width: 15.311px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4010 {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 70.967px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4009 {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4008 {
+	position: absolute;
+	width: 15.311px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto {
+	position: absolute;
+	width: 784.285px;
+	height: 784.285px;
+	left: 27.959px;
+	top: 101.469px;
+	overflow: visible;
+}
+#n_41 {
+	position: absolute;
+	width: 117.191px;
+	height: 32.792px;
+	left: 903px;
+	top: 490.51px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Frigossie_141.html;
+	cursor: pointer;
+}
+#Rectngulo_1971 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(38,67,132,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectngulo_1971 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 131.967px;
+	height: 47.151px;
+	left: -6.313px;
+	top: -4.465px;
+}
+#Trazado_2935 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_2935 {
+	overflow: visible;
+	position: absolute;
+	width: 117.191px;
+	height: 32.792px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_415_L {
+	left: 23px;
+	top: 5.11px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Neo Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(30,107,167,1);
+	letter-spacing: -0.1px;
+}
+#n_36 {
+	position: absolute;
+	width: 127.967px;
+	height: 44.151px;
+	left: 1032.687px;
+	top: 485.045px;
+	overflow: visible;
+}
+#Rectngulo_1969 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(38,67,132,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectngulo_1969 {
+	position: absolute;
+	overflow: visible;
+	width: 131.967px;
+	height: 48.151px;
+	left: 0px;
+	top: 0px;
+}
+#Trazado_2936 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_2936 {
+	overflow: visible;
+	position: absolute;
+	width: 117.191px;
+	height: 32.792px;
+	left: 5.835px;
+	top: 5.465px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_36_L {
+	left: 36.661px;
+	top: 10.576px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Neo Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(30,107,167,1);
+	letter-spacing: -0.1px;
+}
+#n_40 {
+	position: absolute;
+	width: 117.192px;
+	height: 32.792px;
+	left: 1173.712px;
+	top: 490.51px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Frigossie_540.html;
+	cursor: pointer;
+}
+#Rectngulo_1920 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(38,67,132,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectngulo_1920 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 131.967px;
+	height: 47.151px;
+	left: -5.025px;
+	top: -4.465px;
+}
+#Trazado_2937 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_2937 {
+	overflow: visible;
+	position: absolute;
+	width: 117.191px;
+	height: 32.792px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_40_L {
+	left: 30.827px;
+	top: 5.11px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Neo Sans Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(30,107,167,1);
+	letter-spacing: -0.1px;
+}
+#Devuelve_al_piso_de_farmacia_h {
+	left: 1582.74px;
+	top: 595.246px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 32px;
+	line-height: 16.29888153076172px;
+	margin-top: -1.3582406044006348px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.58240032196045px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_4043 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4042 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Protege_los_medicamentos_de_la {
+	left: 1173.67px;
+	top: 592.868px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 32px;
+	line-height: 16.29888153076172px;
+	margin-top: -1.3582406044006348px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.58240032196045px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_4045 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4044 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Facilita_la_reposicin_conteo_y {
+	left: 1174.392px;
+	top: 661.235px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.84px;
+}
+#Grupo_4047 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4046 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Aumenta_el_tiempo_productivo_d {
+	left: 1581.875px;
+	top: 658.691px;
+	position: absolute;
+	overflow: visible;
+	width: 323px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.12px;
+}
+#Grupo_4049 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4048 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4051 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4050 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Capacidad_de_almacenamiento {
+	transform: matrix(1,0,0,1,891.9376,659.478) rotate(-1deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133.009px;
+	height: 41px;
+	line-height: 19.28580093383789px;
+	margin-top: -1.6071500778198242px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16.071500778198242px;
+	color: rgba(255,255,255,1);
+}
+#n_ {
+	left: 891.939px;
+	top: 605.494px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	line-height: 19.28580093383789px;
+	margin-top: -1.6071500778198242px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16.071500778198242px;
+	color: rgba(255,255,255,1);
+}
+#Baldas_de_aluminio_ {
+	left: 904.974px;
+	top: 605.494px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 19.28580093383789px;
+	margin-top: -1.6071500778198242px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16.071500778198242px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_4053 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 843.877px;
+	top: 586.934px;
+	overflow: visible;
+}
+#Grupo_4052 {
+	position: absolute;
+	width: 1044.414px;
+	height: 151.305px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_36_L_c {
+	left: 1033.262px;
+	top: 666.574px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 19.28580093383789px;
+	margin-top: -1.6071500778198242px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16.071500778198242px;
+	color: rgba(255,255,255,1);
+}
+#Complement_3 {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 1174.287px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: maraton_plus.html;
+	cursor: pointer;
+}
+#complement_1 {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 839.465px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Columnas_Cajoneras_PT_45.html;
+	cursor: pointer;
+}
+#complemen_2 {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 1006.876px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Cajonera_8g.html;
+	cursor: pointer;
+}
+#Boton_Hablemos1_-_copia_2 {
+	position: absolute;
+	width: 197.436px;
+	height: 49.188px;
+	left: 1064.282px;
+	top: 332px;
+	overflow: visible;
+}
+#boton_Ficha_t {
+	position: absolute;
+	width: 197.436px;
+	height: 49.188px;
+	left: 846.064px;
+	top: 332px;
+	overflow: visible;
+}
+#Menu {
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Rectngulo_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_Hospitalario-07 {
+	position: absolute;
+	width: 339px;
+	height: 89px;
+	left: 120px;
+	top: 6px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectngulo_2 {
+	fill: rgba(79,170,207,1);
+}
+.Rectngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 100px;
+	left: 1682px;
+	top: 0px;
+}
+#wsa {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 1727px;
+	top: 30px;
+	overflow: visible;
+}
+#wsa {transition: transform .2s;}#wsa:hover {transform: scale(1.15);}
+#mail {
+	position: absolute;
+	width: 41px;
+	height: 32px;
+	left: 1800px;
+	top: 32px;
+	overflow: visible;
+}
+#mail {transition: transform .2s;}#mail:hover {transform: scale(1.15);}
+#Rectngulo_1985 {
+	fill: rgba(29,107,167,1);
+}
+.Rectngulo_1985 {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 99px;
+	left: 1316px;
+	top: 1px;
+}
+#Productos {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 129px;
+	height: 30px;
+	left: 1341px;
+	top: 33px;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Productos {cursor: pointer;}#Productos:hover {color:#4CAACF;}
+#Tecnoblog {
+	left: 1518px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Tecnoblog.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#Tecnoblog {cursor: pointer;}#Tecnoblog:hover {color:#4CAACF;}
+#La_Experiencia_Tecnosalud {
+	left: 977px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: La_Experiencia_Tecnosalud.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#La_Experiencia_Tecnosalud {cursor: pointer;}#La_Experiencia_Tecnosalud:hover {color:#4CAACF;}

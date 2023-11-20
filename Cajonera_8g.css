@@ -1,0 +1,716 @@
+.mediaViewInfo {
+	--web-view-name: Cajonera 8g;
+	--web-view-id: Cajonera_8g;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Cajonera_8g;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Cajonera_8g {
+	position: absolute;
+	width: 1920px;
+	height: 960px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Cajonera 8g;
+	--web-view-id: Cajonera_8g;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Grupo_4065 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: -26.654px;
+	top: 423.03px;
+	overflow: visible;
+}
+#Grupo_4064 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Caractersticas_g {
+	left: 841.733px;
+	top: 443.085px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	line-height: 47.20176315307617px;
+	margin-top: -3.933481216430664px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 39.334800720214844px;
+	color: rgba(255,255,255,1);
+}
+#Cumplimiento_de_las_buenas_pra {
+	left: 1396.577px;
+	top: 499.569px;
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+}
+#Medicamentos_protegidos_de_la_ {
+	left: 1395.713px;
+	top: 565.195px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.06px;
+}
+#Grupo_4067 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: -26.654px;
+	top: 423.03px;
+	overflow: visible;
+}
+#Grupo_4066 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Facilidad_para_el_almacenamien {
+	left: 904.232px;
+	top: 564.897px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.84px;
+}
+#Garanta_de_7_aos_en_estructura {
+	left: 904.232px;
+	top: 625.842px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	height: 31px;
+	line-height: 15.741360664367676px;
+	margin-top: -1.3117804527282715px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.117799758911133px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_4069 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: -26.654px;
+	top: 423.03px;
+	overflow: visible;
+}
+#Grupo_4068 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CALIDAD {
+	transform: matrix(1,0,0,1,847.2983,639.3908) rotate(-15.033deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	line-height: 11.124698638916016px;
+	margin-top: -0.927058219909668px;
+	text-align: left;
+	font-family: Raleway-Black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9.27058219909668px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.1px;
+}
+#Grupo_4071 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: -26.654px;
+	top: 423.03px;
+	overflow: visible;
+}
+#Grupo_4070 {
+	position: absolute;
+	width: 2041.309px;
+	height: 281.23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mobiliario_diseado_para_almace_hg {
+	left: 903.363px;
+	top: 502.461px;
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	white-space: nowrap;
+	line-height: 15.2655611038208px;
+	margin-top: -1.2721304893493652px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12.72130012512207px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.06px;
+}
+#Dispositivos_mdicos_-_Medicame {
+	left: 903.363px;
+	top: 517.727px;
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	white-space: nowrap;
+	line-height: 15.2655611038208px;
+	margin-top: -1.2721304893493652px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12.72130012512207px;
+	color: rgba(255,255,255,1);
+}
+#Insumos_generales_hi {
+	left: 903.363px;
+	top: 532.993px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	line-height: 15.2655611038208px;
+	margin-top: -1.2721304893493652px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12.72130012512207px;
+	color: rgba(255,255,255,1);
+}
+#Fondo_hj {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: -328.19px;
+	top: -926px;
+	display: none;
+	overflow: visible;
+}
+#Grupo_4035_hk {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3988_hl {
+	opacity: 0.55;
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3987_hm {
+	position: absolute;
+	width: 2490.42px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3986_hn {
+	position: absolute;
+	width: 2490.421px;
+	height: 2612.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Complement_3_ho {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 1174.287px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Cajonera_multi.html;
+	cursor: pointer;
+}
+#complement_1_hp {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 839.465px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Master_3.html;
+	cursor: pointer;
+}
+#complemen_2_hq {
+	position: absolute;
+	width: 156.844px;
+	height: 156.844px;
+	left: 1006.876px;
+	top: 780.734px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: PT_21.html;
+	cursor: pointer;
+}
+#Ideal_para_el_almacenamiento_d {
+	left: 839.631px;
+	top: 240.158px;
+	position: absolute;
+	overflow: visible;
+	width: 993px;
+	height: 70px;
+	line-height: 35.40132141113281px;
+	margin-top: -2.95011043548584px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29.501100540161133px;
+	color: rgba(30,107,156,1);
+}
+#Productos_Complementarios_hs {
+	left: 839.633px;
+	top: 733.494px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(30,107,167,1);
+	letter-spacing: -0.83px;
+}
+#Almacenamiento_hospitalario__ht {
+	left: 838.583px;
+	top: 180.704px;
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(30,107,167,1);
+}
+#Columna_Cajonera_8G {
+	left: 839.635px;
+	top: 121.469px;
+	position: absolute;
+	overflow: visible;
+	width: 514px;
+	white-space: nowrap;
+	line-height: 59.002201080322266px;
+	margin-top: -4.916851043701172px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49.16849899291992px;
+	color: rgba(30,107,167,1);
+}
+#imagenes_hv {
+	position: absolute;
+	width: 86.277px;
+	height: 15.381px;
+	left: 376.963px;
+	top: 915.825px;
+	overflow: visible;
+}
+#Grupo_4012_hw {
+	position: absolute;
+	width: 86.277px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_2988_hx {
+	fill: rgba(89,87,88,1);
+}
+.Trazado_2988_hx {
+	overflow: visible;
+	position: absolute;
+	width: 14.311px;
+	height: 14.38px;
+	left: 0px;
+	top: 0.501px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_5_hy {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(113,112,111,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Elipse_5_hy {
+	position: absolute;
+	overflow: visible;
+	width: 15.311px;
+	height: 15.38px;
+	left: 0px;
+	top: 0.501px;
+}
+#Grupo_4001_hz {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 17.367px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4000_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_3999_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4004_h {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 35.233px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4003_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4002_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4007_h {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 53.1px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4006_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4005_h {
+	position: absolute;
+	width: 15.311px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4010_h {
+	opacity: 0.45;
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 70.967px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4009_h {
+	position: absolute;
+	width: 15.31px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_4008_ia {
+	position: absolute;
+	width: 15.311px;
+	height: 15.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Producto_ib {
+	position: absolute;
+	width: 811.15px;
+	height: 811.15px;
+	left: -60.654px;
+	top: 93.994px;
+	overflow: visible;
+}
+#Boton_Hablemos1_-_copia_2_ic {
+	position: absolute;
+	width: 197.436px;
+	height: 49.188px;
+	left: 1064.282px;
+	top: 332px;
+	overflow: visible;
+}
+#boton_Ficha_t_id {
+	position: absolute;
+	width: 197.436px;
+	height: 49.188px;
+	left: 846.064px;
+	top: 332px;
+	overflow: visible;
+}
+#Menu_ie {
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Rectngulo_1_if {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_1_if {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_Hospitalario-07_ig {
+	position: absolute;
+	width: 339px;
+	height: 89px;
+	left: 120px;
+	top: 6px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectngulo_2_ih {
+	fill: rgba(79,170,207,1);
+}
+.Rectngulo_2_ih {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 100px;
+	left: 1682px;
+	top: 0px;
+}
+#wsa_ii {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 1727px;
+	top: 30px;
+	overflow: visible;
+}
+#wsa_ii {transition: transform .2s;}#wsa_ii:hover {transform: scale(1.15);}
+#mail_ij {
+	position: absolute;
+	width: 41px;
+	height: 32px;
+	left: 1800px;
+	top: 32px;
+	overflow: visible;
+}
+#mail_ij {transition: transform .2s;}#mail_ij:hover {transform: scale(1.15);}
+#Rectngulo_1985_ik {
+	fill: rgba(29,107,167,1);
+}
+.Rectngulo_1985_ik {
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	height: 99px;
+	left: 1316px;
+	top: 1px;
+}
+#Productos_il {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 129px;
+	height: 30px;
+	left: 1341px;
+	top: 33px;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Productos_il {cursor: pointer;}#Productos_il:hover {color:#4CAACF;}
+#Tecnoblog_im {
+	left: 1518px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Tecnoblog.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#Tecnoblog_im {cursor: pointer;}#Tecnoblog_im:hover {color:#4CAACF;}
+#La_Experiencia_Tecnosalud_in {
+	left: 977px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 30px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: La_Experiencia_Tecnosalud.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(30,107,167,1);
+}
+#La_Experiencia_Tecnosalud_in {cursor: pointer;}#La_Experiencia_Tecnosalud_in:hover {color:#4CAACF;}

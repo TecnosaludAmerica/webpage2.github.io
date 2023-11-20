@@ -1,0 +1,95 @@
+.mediaViewInfo {
+	--web-view-name: Overlay;
+	--web-view-id: Overlay;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Overlay;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Overlay {
+	position: absolute;
+	width: 1920px;
+	height: 4918px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Overlay;
+	--web-view-id: Overlay;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectngulo_1968 {
+	fill: rgba(0,0,0,0.702);
+}
+.Rectngulo_1968 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 4918px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_4055 {
+	position: absolute;
+	width: 904px;
+	height: 320px;
+	left: 508px;
+	top: 201px;
+	overflow: visible;
+}
+#Productos {
+	left: 213px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	height: 112px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	color: rgba(255,255,255,1);
+}
+#reas_Hospitalarias {
+	left: 24px;
+	top: 150px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	height: 70px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Todos_los_productos {
+	left: 0px;
+	top: 250px;
+	position: absolute;
+	overflow: visible;
+	width: 905px;
+	height: 70px;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Enmascarar_grupo_2 {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 888px;
+	top: 766px;
+	overflow: visible;
+}
